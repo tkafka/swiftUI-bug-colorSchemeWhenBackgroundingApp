@@ -20,6 +20,7 @@
 		3D49EFBF29E809BE00FEB853 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D49EFC129E809BE00FEB853 /* testColorSchemeWhenBackgrounding.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = testColorSchemeWhenBackgrounding.entitlements; sourceTree = "<group>"; };
 		3D49EFC329E809BE00FEB853 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D49EFCA29E80BB900FEB853 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		3D49EFAF29E809BD00FEB853 = {
 			isa = PBXGroup;
 			children = (
+				3D49EFCA29E80BB900FEB853 /* .gitignore */,
 				3D49EFBA29E809BD00FEB853 /* testColorSchemeWhenBackgrounding */,
 				3D49EFB929E809BD00FEB853 /* Products */,
 			);
